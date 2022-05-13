@@ -1,0 +1,20 @@
+{
+  "pluginName": "Microsoft Teams",
+  "pluginDescription": "Mute/unmute calls in MS Teams",
+  "pluginReadMore": "",
+  "protocolVersion": 1,
+  "actions": [
+    {
+      "actionName": "Toggle Audio",
+      "fileName": "microsoft-teams-toggle-audio.scpt"
+    },
+    {
+      "actionName": "Toggle Video",
+      "fileName": "microsoft-teams-toggle-video.scpt"
+    },
+    {
+      "actionName": "Leave Meeting",
+      "fileName": "microsoft-teams-leave-meeting.scpt"
+    }
+  ]
+}
